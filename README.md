@@ -7,7 +7,7 @@ Student at Benjamin Franklin Cummins Institute Of Technology in pursuit of a deg
 
 Technical Skills & Tools: Python (NumPy, pandas), R, Spreadsheet, SQL, Tableau, PowerBI
 
- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />         
+ <img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />         
  Google Data Analytics & Google IT professional certificates
 
 Other interests: Flying aircraft, playing soccer, and volunteering in social work.
@@ -18,19 +18,19 @@ Other interests: Flying aircraft, playing soccer, and volunteering in social wor
   <a href="https://github.com/sidhugurveer5?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sidhugurveer5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   </p>
-
+  
 ---
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sidhu-gurveer#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sidhu-gurveer#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Gurveersidhu350#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Gurveersidhu350#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/sidhugurveer5#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/sidhugurveer5#gh-dark-mode-only)
-&nbsp;&nbsp;
+
+<a href="mailto:sidhugurveer5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sidhu-gurveer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://discordapp.com/users/665550588582297622"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Envoy_#1852" ></a>
+
+<a href="https://instagram.com/sidhugurveer5"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sidhugurveer5" height="30" width="40" /></a>
+<a href="https://twitter.com/Gurveersidhu350" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Gurveersidhu350" height="30" width="40" /></a> 
+
+</p>
 
 #
 ### Languages and Tools:
@@ -41,4 +41,5 @@ Other interests: Flying aircraft, playing soccer, and volunteering in social wor
 [<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />]
 [<img align="left" alt="Rstudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />]
 [<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />]
-#
+
+---
