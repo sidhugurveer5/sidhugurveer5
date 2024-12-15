@@ -3,7 +3,7 @@
 
 **`Aspiring data scientist (Pilot/Gamer/Coder)`**
 
-Student at Benjamin Franklin Cummins Institute Of Technology in pursuit of a degree in Health Information Technology (Data Analytics concentration). I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills as I grow in the knowledge of my field. My passion lies in solving business problems with tailored data and communicating complex ideas to non-technical stakeholders.
+I'm an aspiring data scientist who connects ideas from different fields and works well with various teams. I am improving my technical skills to solve real business problems using data. I enjoy explaining complex concepts in simple terms to non-technical stakeholders, and showing how data can help in decision-making.
 
 Technical Skills & Tools: Python (NumPy, pandas), R, Spreadsheet, SQL, Tableau, PowerBI
 
